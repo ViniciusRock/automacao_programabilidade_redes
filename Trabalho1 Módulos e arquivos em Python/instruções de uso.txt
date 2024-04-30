@@ -1,0 +1,6 @@
+Uso:
+> python arquivos.py
+1. Cadastrar vinho
+2. Listar vinhos
+3. Excluir vinho
+0. Sair
